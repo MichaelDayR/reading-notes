@@ -13,7 +13,7 @@
 
 5. "Confío en mi capacidad para aprender cosas nuevas."
 
-[ Mentalidad de Crecimeitno ](https://www.understood.org/es-mx/articles/growth-mindset#)
+[ Mentalidad de Crecimiento ](https://www.understood.org/es-mx/articles/growth-mindset#)
 
 ## Michael Day
 - Soy un Director de Cine/ Artista plástico 
