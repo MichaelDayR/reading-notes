@@ -14,3 +14,9 @@
 5. "Confío en mi capacidad para aprender cosas nuevas."
 
 [ Mentalidad de Crecimeitno ](https://www.understood.org/es-mx/articles/growth-mindset#)
+
+## Michael Day
+- Soy un Director de Cine/ Artista plástico 
+- Fui gestor cultural del distrito de Barranco en el 2023
+- He animado con 2d videoclips de música de Alejandro y Maria Laura y Pelo Madueño.
+- [ Michael Day](https://github.com/MichaelDayR)
