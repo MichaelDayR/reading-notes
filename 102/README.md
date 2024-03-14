@@ -1,0 +1,9 @@
+# LISTA
+- [class01](./class01.md)
+- [class02](./class02.md)
+- [class03](./class03.md)
+- [class04](./class04.md)
+- [class05](./class05.md)
+- [class06](./class06.md)
+- [class07](./class07.md)
+- [class08](./class08.md)

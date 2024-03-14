@@ -1,8 +1,8 @@
-# **Mentalidad de crecimiento**
+# Mentalidad de crecimiento
 *Herramientas que utilizamos para poder progresar.*
 ## Qué es?
 *Es una manera de poder **enfentar** obstáculos, cambiando las respuestas negativas por **oportunidades** para crecer. Ser resiliente.*
-## Ejemplos
+### Ejemplos
 1. "No soy bueno en esto, aún."
 
 2. "Este desafío me ayudará a aprender y mejorar."
@@ -13,7 +13,7 @@
 
 5. "Confío en mi capacidad para aprender cosas nuevas."
 
-[ Mentalidad de Crecimiento ](https://www.understood.org/es-mx/articles/growth-mindset#)
+[Mentalidad de Crecimiento](https://www.understood.org/es-mx/articles/growth-mindset#)
 
 ## Michael Day
 - Soy un Director de Cine/ Artista plástico 

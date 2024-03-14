@@ -1,7 +1,7 @@
 # reading-notes
-Notas de lectura para mis cursos de Entre Tech School.
-## Autor
-- Michael Day
 
-## Creación
-- Lunes 11 de Marzo 2024
+##  Este es un espacio de aprendizaje y apertura mental
+
+## Lista de Contenidos
+- [102](./102/)
+- [201](./201/)
