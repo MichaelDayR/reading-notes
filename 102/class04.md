@@ -23,12 +23,12 @@ La etiqueta < p > indica un párrafo de texto.
 La etiqueta < h1 > indica un encabezado de nivel 1.
 La etiqueta < img > indica una imagen.
 La etiqueta < a > indica un enlace a otra página web.
-Algunos de los elementos semánticos más comunes en HTML:
 
-Secciones: < header >, < main >, < section >, < aside >, < footer >
-Texto: < p >, < h1 >, < h2 >, < h3 >, < h4 >, < h5 >, < h6 >, < pre >, < code >
-Enlaces: < a >
-Imágenes: < img >
-Listas: < ul >, < ol >, < li > 
-Tablas: < table >, < tr >, < td >
-Formularios: < form >, < input >, < select >, < button >
+**Algunos de los elementos semánticos más comunes en HTML:**
+- Secciones: < header >, < main >, < section >, < aside >, < footer >
+- Texto: < p >, < h1 >, < h2 >, < h3 >, < h4 >, < h5 >, < h6 >, < pre >, < code >
+- Enlaces: < a >
+- Imágenes: < img >
+- Listas: < ul >, < ol >, < li > 
+- Tablas: < table >, < tr >, < td >
+- Formularios: < form >, < input >, < select >, < button >
