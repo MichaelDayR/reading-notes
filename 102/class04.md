@@ -12,7 +12,7 @@ HTML no es un lenguaje de codificación, es un lenguaje de etiquetas. Lo usamos 
 
 ## ¿Cómo se llama cuando le das información extra a un elemento?
 
-Al darle una informaciön adicional a un elemtno le pones un atributo.
+Al darle una informaciön adicional a un elemtno le pones un **atributo.**
 
 ## ¿Qué es un elemento semántico?
 Un elemento semántico en HTML es una etiqueta que define el significado y la función de un contenido específico dentro de una página web. A diferencia de las etiquetas no semánticas que solo controlan la presentación del contenido (como < div > o < span >), las etiquetas semánticas le dan a los navegadores y a los motores de búsqueda información adicional sobre lo que representa el contenido. 
@@ -23,3 +23,12 @@ La etiqueta < p > indica un párrafo de texto.
 La etiqueta < h1 > indica un encabezado de nivel 1.
 La etiqueta < img > indica una imagen.
 La etiqueta < a > indica un enlace a otra página web.
+Algunos de los elementos semánticos más comunes en HTML:
+
+Secciones: < header >, < main >, < section >, < aside >, < footer >
+Texto: < p >, < h1 >, < h2 >, < h3 >, < h4 >, < h5 >, < h6 >, < pre >, < code >
+Enlaces: < a >
+Imágenes: < img >
+Listas: < ul >, < ol >, < li > 
+Tablas: < table >, < tr >, < td >
+Formularios: < form >, < input >, < select >, < button >
